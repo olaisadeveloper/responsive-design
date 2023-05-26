@@ -1,0 +1,8 @@
+/* Mobile view */
+@media only screen and (max-width: 320px) {
+    /* import gllobal variables */
+    @import url(./mobile.css);
+
+    /* other styles below */
+    
+}
